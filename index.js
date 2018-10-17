@@ -2,6 +2,8 @@ var express = require('express');
 
 var app = express();
 
+/*git测试*/
+
 /*设置handlebars视图引擎*/
 var handlebars = require('express3-handlebars')
 	.create({ defaultLayout: 'main' });
