@@ -2,7 +2,7 @@ var express = require('express');
 
 var app = express();
 
-/*git测试*/
+/*git测试1*/
 
 /*设置handlebars视图引擎*/
 var handlebars = require('express3-handlebars')
